@@ -1,2 +1,2 @@
 # Physics Playground
-Box2D Physics Playground (with JavaScript)
+Matter.js Physics Playground
